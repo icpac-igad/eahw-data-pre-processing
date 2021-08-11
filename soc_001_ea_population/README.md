@@ -5,7 +5,7 @@ to [Population Count - Constrained Individual Countries](https://www.worldpop.or
 for [display on EA Hazards Watch]({link to dataset's metadata page on EA Hazards Watch}).
 
 The source provided the data as individual downloadable tiff files for each country. The files were downloaded for the
-East Africa Countries listed below, and then joined merger using the GDAL merge tool.
+East Africa Countries listed below, and then merged using the GDAL merge tool.
 
 - Burundi
 - Djibouti
