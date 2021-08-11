@@ -20,7 +20,7 @@ East Africa Countries listed below, and then joined merger using the GDAL merge 
 - Uganda
 
 Please see
-the [Python script](https://github.com/icpac-igad/data-pre-processing/master/blob/soc_001_ea_population/soc_001_ea_population_processing.py)
+the [Python script](https://github.com/icpac-igad/eahw-data-pre-processing/blob/main/soc_001_ea_population/soc_001_ea_population_processing.py)
 for more details on this processing.
 
 You can view the processed {EA Hazards Watch public title}
